@@ -1,0 +1,46 @@
+TO config git Globally use
+git config --global user.name "Sai kiran Iddibani"
+
+git config -- global user.email "saikiranc490@gmail.com"
+
+To View the list use command,
+
+git config --global --list
+
+################
+
+To Get a Repository from git to local 
+
+Then use the command git clone"
+
+
+
+Basic Commands
+
+1) git clone (Used to clone any repository into the local).
+
+2)git status ( Gives which branch we are currently on).
+
+Example : On branch master.
+So when u hit git status, It shares the that tracked and untacked.
+
+The Files that marked with color red, indicates they are untracked and similarlythe files with color green are tracked
+NOw to make it tracked we use the Command git add 
+
+3) git add file name or git add ,
+
+[A[A[A[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C (Staging Area).[B[B[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DAfter that, the git tells that these Changes to be commited
+
+To Commit we use the command
+
+4) git command -m ""[DCommiting start file"
+Now The File 
+
+Has Come from 
+Reposiotry -> Staging Area -> [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Local Repository -> staging Area -> .git Reposit[Dtory
+
+But it has final step before going into public repository.
+
+The last step is called Git Push
+
+5) git push origin master
