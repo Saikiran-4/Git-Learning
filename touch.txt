@@ -28,16 +28,15 @@ The Files that marked with color red, indicates they are untracked and similarly
 NOw to make it tracked we use the Command git add 
 
 3) git add file name or git add ,
-
-[A[A[A[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C (Staging Area).[B[B[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DAfter that, the git tells that these Changes to be commited
+After that, the git tells that these Changes to be commited
 
 To Commit we use the command
 
-4) git command -m ""[DCommiting start file"
+4) git command -m "Commiting start file"
 Now The File 
 
 Has Come from 
-Reposiotry -> Staging Area -> [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Local Repository -> staging Area -> .git Reposit[Dtory
+Reposiotry -> Staging Area -> Local Repository -> staging Area -> .git Repository
 
 But it has final step before going into public repository.
 
